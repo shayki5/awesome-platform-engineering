@@ -1,0 +1,14 @@
+README.md
+  h_75d26f28339534 141
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "1ed355db586bd700dae3fafa864afced6d935131",
+  "prompts": {},
+  "humans": {
+    "h_75d26f28339534": {
+      "author": "Shayki Abramczyk <shayki5@gmail.com>"
+    }
+  }
+}
